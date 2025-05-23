@@ -1,5 +1,5 @@
 # Ketentuan Jawaban
 
-## Buatkan ER Diagram untuk sistem database yang dibutuhkan oleh Andi
+## Buatlah database menggunakan PostgreSQL berdasarkan ER Diagram anda
 
-Upload ER Diagram anda di folder ini
+Upload SQL File anda disini
